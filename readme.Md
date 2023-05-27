@@ -1,6 +1,6 @@
 # This Nodejs Project will focus on natural nodejs and raw javascript
 ## this project will try to remain less or not dependent on third-party packages
-### We will write many raw operation in javascript related to maths, crptos, cyphers, tokens, and many more things.
+### We will write many raw operation in javascript related to maths, cryptos, cyphers, tokens, and many more things.
 
 - we will practice
 * maths
