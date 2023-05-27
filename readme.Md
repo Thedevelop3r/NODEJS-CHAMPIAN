@@ -7,7 +7,7 @@
 * random crypto generation
 * token generation
 * encrypting information in crypto generated tokens and cyphers
-* certificate genration
+* certificate generation
 * a powerfull unique way of sending and receiving information - we wil call it UWSR
 * UWSR based Auth
 * database operations against mongodb (uses a package - mongoose)
